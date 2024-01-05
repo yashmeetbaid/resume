@@ -41,4 +41,4 @@ GitHub Pages - To host my static website (HTML, CSS, JS).
 
 # 🌐 Live Demo
 
-Check out the live demo of the portfolio [https://github.com/yashmeetbaid/resume/settings/pages].
+Check out the live demo of the portfolio [https://yashmeetbaid.github.io/resume/].
