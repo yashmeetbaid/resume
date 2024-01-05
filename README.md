@@ -38,3 +38,7 @@ Welcome to my personal portfolio project repository! This project showcases my s
 
 # Tools Used 🛠️
 GitHub Pages - To host my static website (HTML, CSS, JS).
+
+# 🌐 Live Demo
+
+Check out the live demo of the portfolio [https://github.com/yashmeetbaid/resume/settings/pages].
